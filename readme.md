@@ -8,7 +8,7 @@ You do _not_ have to fork this project, since you will not be changing the code,
 
 ### Instructions
 
-1. Clone down the Selector Translation repository on GitHub. You do **not** have to fork it, since we won't be turning in a copy of the code.
+1. Clone down this repository. You do **not** have to fork it, since we won't be turning in a copy of the code.
 2. Open styles/styles.css in VS Code.
 3. Read through the code, looking at selectors.
 4. For each of the first **10** selectors, write **in your own words** what the selector means. You can write this anywhere you'd like.
